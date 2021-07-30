@@ -1,4 +1,4 @@
-REACT CANDLESTICK CHART TUTORIAL MADE BY ARSLAN: https://youtu.be/EozoDYp4DQY
+REACT CANDLESTICK CHART TUTORIAL MADE BY RIZWAN ULLAH
 "# candleStickChart" 
 "# candleStickChart" 
 "# candleStickChart" 
